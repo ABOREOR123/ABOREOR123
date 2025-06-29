@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square">
 <img src="https://img.shields.io/badge/OSCP-FFFFFF?style=flat-square&logo=offensive-security&logoColor=black">
 <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=flat-square&logo=nmap&logoColor=black">
+  <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=flat-square&logo=Wireshark&logoColor=black">
 <img src="https://img.shields.io/badge/Metasploit-258C78?style=flat-square">
 
 
