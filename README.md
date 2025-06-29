@@ -1,17 +1,52 @@
 # 🛡️ Ciberseguridad | ABOREOR
 ¡Hola! Soy ABOREOR, especialista en ciberseguridad con enfoque en [pentesting, blue team, análisis de malware, etc.].  
+<style>
+  .github-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+
+  .github-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .github-half {
+    width: 45%;
+    min-width: 300px;
+  }
+
+  .github-full {
+    width: 95%;
+    max-width: 1000px;
+  }
+</style>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark" width="95%" style="margin: 10px 0;">
+  <img class="github-full"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark"
+       alt="GitHub Profile Summary Card">
 </div>
 
-<div align="center" style="margin: 10px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABOREOR123&show_icons=true&theme=dark&hide_title=true&hide=stars,issues&hide_border=true&layout=compact" width="45%" style="display: inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=dark&hide_border=true&background=0D1117" width="45%" style="display: inline-block;">
+<div class="github-section">
+  <img class="github-half"
+       src="https://github-readme-stats.vercel.app/api?username=ABOREOR123&show_icons=true&theme=dark&hide_title=true&hide=stars,issues&hide_border=true&layout=compact"
+       alt="GitHub Stats">
+  <img class="github-half"
+       src="https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=dark&hide_border=true&background=0D1117"
+       alt="GitHub Streak Stats">
 </div>
 
-<div align="center" style="margin: 10px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABOREOR123&theme=github-dark&hide_border=true&area=true&height=250" width="90%">
+<div align="center">
+  <img class="github-full"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ABOREOR123&theme=github-dark&hide_border=true&area=true&height=250"
+       alt="GitHub Contribution Graph">
 </div>
+
 
 ## Core Competencies
 
