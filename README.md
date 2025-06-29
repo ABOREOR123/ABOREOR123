@@ -10,9 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=dark&hide_border=true&background=0D1117" width="45%" style="display: inline-block;">
 </div>
 
-<div align="center" style="margin: 10px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABOREOR123&theme=github-dark&hide_border=true&area=true&height=250" width="90%">
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=dracula&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
 
 ## Core Competencies
 
