@@ -1,5 +1,5 @@
 # 🛡️ Ciberseguridad | ABOREOR
-¡Hola! Soy [Tu Nombre/Alias], especialista en ciberseguridad con enfoque en [pentesting, blue team, análisis de malware, etc.].  
+¡Hola! Soy ABOREOR, especialista en ciberseguridad con enfoque en [pentesting, blue team, análisis de malware, etc.].  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark" width="95%" style="margin: 10px 0;">
 </div>
