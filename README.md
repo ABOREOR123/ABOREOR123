@@ -34,11 +34,7 @@
 
 ---
 
-### 🎥 Video Destacado
-[![Video Destacado](https://img.shields.io/badge/Ver%20en%20YouTube-FF0000?style=for-the-flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cXOT2jpR5sE)
-<a href="https://www.youtube.com/watch?v=cXOT2jpR5sE">
-  <img src="https://img.youtube.com/vi/cXOT2jpR5sE/mqdefault.jpg" alt="Video destacado" style="border-radius: 8px; margin-top: 10px; border: 2px solid #FF0000; width: 60%;">
-</a>
+
 
 </div>
  
