@@ -22,10 +22,11 @@
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square">
 <img src="https://img.shields.io/badge/OSCP-FFFFFF?style=flat-square&logo=offensive-security&logoColor=black">
 <div style="margin: 5px 0;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square">
 <img src="https://img.shields.io/badge/OSCP-FFFFFF?style=flat-square&logo=offensive-security&logoColor=black">
+<img src="https://img.shields.io/badge/Nmap-FFFFFF?style=flat-square&logo=nmap&logoColor=black">
+<img src="https://img.shields.io/badge/Metasploit-258C78?style=flat-square">
 
 
 ## 🌐 Redes Sociales
