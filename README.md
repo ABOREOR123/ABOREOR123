@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/fluency/24/000000/data-configuration.png"/> Data Science Specialist
+# <img src="https://img.icons8.com/fluency/24/000000/data-configuration.png"/> Especialista en Ciencia de Datos
 **`Python & RStudio Expert | Business Intelligence | Statistical Modeling`**
 
 <div align="center">
