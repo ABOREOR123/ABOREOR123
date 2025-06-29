@@ -1,5 +1,5 @@
 # <img src="https://img.icons8.com/fluency/24/000000/data-configuration.png"/> Especialista en Ciencia de Datos
-**`Python & RStudio Expert | Business Intelligence | Statistical Modeling`**
+**`Python & RStudio | Business Intelligence | Statistical Modeling`**
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark" width="95%" style="margin: 10px 0;">
