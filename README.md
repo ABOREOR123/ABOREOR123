@@ -17,7 +17,6 @@
 <div style="margin: 10px 0;">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/OSCP-FFFFFF?style=for-the-badge&logo=offensive-security&logoColor=black">
   <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/Metasploit-258C78?style=for-the-badge">
