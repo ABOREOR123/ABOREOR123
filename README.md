@@ -5,8 +5,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark" width="95%" style="margin: 10px 0;">
 </div>
 
-<div align="center" style="margin: 10px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABOREOR123&show_icons=true&theme=dark&hide_title=true&hide=stars,issues&hide_border=true&layout=compact" width="45%" style="display: inline-block;">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=gruvbox-duo&hide_border=falso&short_numbers=falso" alt="GitHub Streak" />
 </a>
 
