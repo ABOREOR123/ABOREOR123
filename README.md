@@ -21,4 +21,24 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white">
+
+
+## 🌐 Redes Sociales
+<div align="center" style="margin: 25px 0; background-color: #1A1A1A; padding: 25px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+### <img src="https://img.icons8.com/color/24/000000/youtube-play.png"/> YouTube | <img src="https://img.icons8.com/fluency/24/000000/instagram-new.png"/> Instagram | <img src="https://img.icons8.com/pulsar-line/24/threads.png"/> Threads
+
+[![YouTube Channel](https://img.shields.io/badge/@ABOREOR1-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@ABOREOR1)
+[![Instagram Profile](https://img.shields.io/badge/@aboreor0101-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/aboreor0101/)
+[![Threads Profile](https://img.shields.io/badge/@aboreor0101-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=101010)](https://www.threads.com/@aboreor0101)
+
+---
+
+### 🎥 Video Destacado
+[![Video Destacado](https://img.shields.io/badge/Ver%20en%20YouTube-FF0000?style=for-the-flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=cXOT2jpR5sE)
+<a href="https://www.youtube.com/watch?v=cXOT2jpR5sE">
+  <img src="https://img.youtube.com/vi/cXOT2jpR5sE/mqdefault.jpg" alt="Video destacado" style="border-radius: 8px; margin-top: 10px; border: 2px solid #FF0000; width: 60%;">
+</a>
+
+</div>
  
