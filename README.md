@@ -7,7 +7,7 @@
   
   <div style="display: flex; justify-content: space-between; margin: 15px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=ABOREOR123&show_icons=true&theme=dark&hide_title=true&hide=stars,issues&hide_border=true&layout=compact" width="48%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=gruvbox-duo&hide_border=true" width="48%">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ABOREOR123&theme=youtube-dark&hide_border=falso&short_numbers=falso" alt="GitHub Streak" width="48%" /></a>
   </div>
 </div>
 
