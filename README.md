@@ -1,6 +1,6 @@
 # 🛡️ Ciberseguridad | ABOREOR
 
-¡Hola! 👋 Soy ABOREOR, especialista en ciberseguridad con enfoque en pentesting, blue team y análisis de malware.  
+¡Hola! 👋 Soy ABOREOR, especialista en ciberseguridad con enfoque en pentesting y análisis de malware.  
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark" width="95%">
