@@ -39,25 +39,7 @@ Apasionado por la seguridad ofensiva, la formación y la divulgación tecnológi
 </p>
 
 
- Redes Sociales
 
-<div align="center" style="margin: 20px 0; background: linear-gradient(145deg, #1A1A1A, #2A2A2A); padding: 20px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-  <a href="https://www.youtube.com/@ABOREOR1">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/aboreor0101/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.threads.net/@aboreor0101">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
-  </a>
-  <a href="https://stackoverflow.com/users/23592191/aboreor">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <!-- Agrega más enlaces si lo deseas -->
-</div>
-
----
 
 ## 📫 Contacto
 
