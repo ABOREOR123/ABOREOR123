@@ -22,11 +22,7 @@ especialista en ciberseguridad con enfoque en **pentesting** y **análisis de ma
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Nmap-FFFFFF?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/Metasploit-258C78?style=for-the-badge" alt="Metasploit">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
-  <img src="https://img.shields.io/badge/Immunity_Debugger-000000?style=for-the-badge" alt="Immunity Debugger">
-  <img src="https://img.shields.io/badge/IDA_Pro-1a1a1a?style=for-the-badge" alt="IDA Pro">
 </p>
 
 ### 💻 Lenguajes de Programación
