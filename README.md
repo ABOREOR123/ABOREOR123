@@ -1,7 +1,7 @@
-# 🛡️ Ciberseguridad | ABOREOR
+# 🛡️ Ciberseguridad 
 
-¡Hola! 👋 Soy **ABOREOR**, especialista en ciberseguridad con enfoque en **pentesting** y **análisis de malware**.  
-Apasionado por la seguridad ofensiva, la formación y la divulgación tecnológica.
+especialista en ciberseguridad con enfoque en **pentesting** y **análisis de malware**.  
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABOREOR123&theme=github_dark" width="95%" alt="Resumen de perfil de GitHub">
